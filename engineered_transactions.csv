@@ -1,0 +1,5 @@
+transaction_id,user_id,amount,location,is_fraud,hour,day,weekday,user_transaction_count,user_avg_amount
+1,1,500.0,New York,False,0,15,5,1,500.0
+2,2,1200.5,Los Angeles,True,0,15,5,1,1200.5
+3,3,75.0,Chicago,False,0,15,5,1,75.0
+5,5,980.0,Miami,False,0,15,5,1,980.0
